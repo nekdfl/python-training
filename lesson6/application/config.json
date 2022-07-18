@@ -1,0 +1,11 @@
+
+{
+  "settings" : {
+    "pupol_file_list": "",
+    "teacher_file_list":  "",
+    "logger": {
+      "backupCount": 33,
+      "enableDebug": false
+    }
+  }
+}
