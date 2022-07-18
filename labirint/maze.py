@@ -10,6 +10,30 @@ class SpaceObject:
 
     def __init__(self, direction):
         self.direction = direction
+        self._x = None
+        self._y = None
+        self._next = None
+
+    def set_x(self, x):
+        self._x = x
+
+    @property
+    def x(self):
+        return self._x
+
+    def set_y(self, y):
+        self._y = y
+
+    @property
+    def y(self):
+        return self._y
+
+    def set_next_direction(self, direction):
+        self._next = direction
+
+    @property
+    def next(self):
+        return self._next
 
     def __is_can_move(self, direction):
         return self.direction & direction
@@ -25,7 +49,6 @@ class SpaceObject:
 
     def is_can_move_w(self):
         return self.__is_can_move(self.direction_w)
-
 
 class Station(SpaceObject):
 
