@@ -1,0 +1,113 @@
+{
+  "start_station": {
+    "Name": "Quasar",
+    "Direction": 15
+  },
+  "stars": [
+    {
+      "Name": "Sun",
+      "id": 1,
+      "planet_quantity": 1,
+      "Type": 1,
+      "Direction": 6
+    },
+    {
+      "Name": "Proximo",
+      "id": 2,
+      "planet_quantity": 2,
+      "Type": 1,
+      "Direction": 3
+    },
+    {
+      "Name": "AlfaCentavra",
+      "id": 3,
+      "planet_quantity": 3,
+      "Type": 1,
+      "Direction": 9
+    },
+    {
+      "Name": "Apelgazer",
+      "id": 4,
+      "planet_quantity": 1,
+      "Type": 1,
+      "Direction": 12
+    },
+    {
+      "Name": "Altair",
+      "id": 5,
+      "planet_quantity": 1,
+      "Type": 1,
+      "Direction": 7
+    },
+    {
+      "Name": "Almac",
+      "id": 6,
+      "planet_quantity": 2,
+      "Type": 1,
+      "Direction": 11
+    },
+    {
+      "Name": "Wasat",
+      "id": 7,
+      "planet_quantity": 2,
+      "Type": 1,
+      "Direction": 13
+    },
+    {
+      "Name": "Pollux",
+      "id": 8,
+      "planet_quantity": 2,
+      "Type": 1,
+      "Direction": 14
+    },
+    {
+      "Name": "Titawin",
+      "id": 9,
+      "planet_quantity": 2,
+      "Type": 1,
+      "Direction": 15
+    },
+    {
+      "Name": "Mirach",
+      "id": 10,
+      "planet_quantity": 3,
+      "Type": 1,
+      "Direction": 15
+    },
+    {
+      "Name": "Numbus",
+      "id": 11,
+      "planet_quantity": 3,
+      "Type": 1,
+      "Direction": 15
+    },
+    {
+      "Name": "Alhena",
+      "id": 12,
+      "planet_quantity": 3,
+      "Type": 1,
+      "Direction": 15
+    },
+    {
+      "Name": "Castor",
+      "id": 13,
+      "planet_quantity": 4,
+      "Type": 1,
+      "Direction": 15
+    },
+    {
+      "Name": "Veritate",
+      "id": 14,
+      "planet_quantity": 4,
+      "Type": 1,
+      "Direction": 15
+    },
+    {
+      "Name": "Isida",
+      "id": 15,
+      "planet_quantity": 5,
+      "Type": 1,
+      "Direction": 15
+    }
+  ]
+}
