@@ -2,14 +2,16 @@
 #define CIRCLE_HPP
 
 #include <iostream>
+#include "figure.hpp"
 
-class Circle
+class Circle : public Figure
 {
 public:
     Circle(double radius);
     ~Circle();
     
-    void print_circle_square();
+    void print_square();
+    
 
 protected:
     double m_radius;

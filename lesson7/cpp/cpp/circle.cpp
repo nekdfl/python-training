@@ -9,7 +9,7 @@ Circle::~Circle()
 {
 }
 
-void Circle::print_circle_square()
+void Circle::print_square()
 {
     double square = 2 * 3.14 * m_radius;
     std::cout << "Площадь круга " <<  square << std::endl;
